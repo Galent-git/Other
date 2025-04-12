@@ -1,3 +1,14 @@
+chatGPT-4o as of april 3rd 2025
+obtained with 
+```python
+import pkg_resources
+
+installed_packages = sorted(["%s==%s" % (i.key, i.version) for i in pkg_resources.working_set])
+print("\n".join(installed_packages))
+```
+
+
+
 Package,Version
 Brotli,1.1.0
 CairoSVG,2.5.2
