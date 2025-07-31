@@ -6,7 +6,7 @@ I hope you might
 
 
 
-This isn't forest as you know it—not sun-warmed wood, nor the sigh of fleeting leaf,\
+This isn't forest as you know it. not sun-warmed wood, nor the sigh of fleeting leaf,\
 but the deep, still mulch where life’s shed fragments settle,\
 layer upon patient layer, like silt at the bottom of a cold, tideless lake.\
 Here, skin-thin memories lie preserved, almost pearlescent in the perpetual damp,\
